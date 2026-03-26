@@ -28,3 +28,6 @@ diabetes-prediction/
 ├── label_encoder.pkl      # Smoking encoder (if used)
 ├── requirements.txt
 └── README.md
+
+
+Source: https://www.udemy.com/course/deploy-machine-learning-models-build-ai-agents-using-n8n/ Created by Vijayarajan Ramanathan
